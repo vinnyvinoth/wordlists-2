@@ -1,3 +1,2 @@
-# 🚀 Trickest wordlists https://trickest.com
-
-TrickestWordlists
+# 🚀 wordlists
+Personal Wordlists
