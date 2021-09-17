@@ -1,2 +1,2 @@
-# 🚀 wordlists
+# 🚀 Wordlists ✏️ 
 Personal Wordlists
