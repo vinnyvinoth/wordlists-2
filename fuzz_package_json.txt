@@ -7,6 +7,8 @@ packagejson/
 .packagejson/
 package_json
 .package_json
+/app/package.json
+app/package.json
 packages/package.json
 .packages/package.json
 packages/package.json
@@ -224,3 +226,4 @@ broadcastspampackage/package.json
 jpackage/package.json
 packageproduct/package.json
 linuxpackages/package.json
+npm/package.json
