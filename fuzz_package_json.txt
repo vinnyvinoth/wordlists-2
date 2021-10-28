@@ -42,7 +42,6 @@ makeapackage/package.json
 vacationpackages/package.json
 packagecleaner/package.json
 soft%20package/package.json
-PHP scripts package/package.json
 press-package/package.json
 Ext_package/package.json
 GUI_package/package.json
@@ -78,7 +77,6 @@ lwpackage-dev/package.json
 lwpackage/package.json
 3mflexiblepackageapplicatorgun/package.json
 inpackage/package.json
-chevys10truckwithextremepackage/package.json
 promo_packages/package.json
 package_coding/package.json
 packageCoding/package.json
@@ -89,35 +87,25 @@ packages_isp/package.json
 packages_server/package.json
 packages_crm/package.json
 packages_proprietary/package.json
-building packages/package.json
-debian packages/package.json
-searching packages/package.json
-removing packages/package.json
+building+packages/package.json
+debian+packages/package.json
 package manipulation/package.json
 package updates/package.json
-motegiff7rimandtirepackage/package.json
 tippmanna5assaultpackage/package.json
 compare_packages/package.json
 refresher-packages/package.json
 peakpackages/package.json
-icon_packages/package.json
-wedding_packages/package.json
 orderpackage/package.json
 hosting_package/package.json
 packages1/package.json
 packages_text/package.json
-packages_img/package.json
-icon-package/package.json
-las vegas air and hotel package/package.json
 symbol_package/package.json
 websitepackages/package.json
-packages_off/package.json
 cvp_package/package.json
 packagedeals/package.json
 contactinfopackage/package.json
 packages_professional/package.json
 saving_packages/package.json
-buy-packaged/package.json
 packaged-applications/package.json
 iconpackager/package.json
 downloaderxl-package/package.json
@@ -149,7 +137,6 @@ downloaderxlpackage-r0/package.json
 Installation%20package/package.json
 autopackage/package.json
 url_autopackage/package.json
-sponsor_packages/package.json
 packagers/package.json
 packagejesus/package.json
 info_package/package.json
@@ -178,7 +165,6 @@ work-packages/package.json
 packages-i686/package.json
 packages-x86_64/package.json
 full-packages/package.json
-photositepackagematrixsignup/package.json
 packaged/package.json
 loanpackager/package.json
 SiteProtector_packages/package.json
