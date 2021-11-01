@@ -1,0 +1,6 @@
+composer.json
+composer.phar
+packages/composer.json
+packages/composer.phar
+package/composer.json
+package/composer.phar
